@@ -1,0 +1,13 @@
+.navbar-brand{
+    padding-right: 20em;
+}
+
+.card-img-overlay{
+    width: 50em;
+   margin: 0 auto;
+
+}
+
+.card-img-overlay button{
+    width: 10em;
+}
