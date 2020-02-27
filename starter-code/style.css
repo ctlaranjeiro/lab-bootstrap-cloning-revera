@@ -2,12 +2,15 @@
     padding-right: 20em;
 }
 
-.card-img-overlay{
-    width: 50em;
-   margin: 0 auto;
 
+
+.circle{
+    width: 4.5em;
+    height: 4.5em;
+    border: .3em solid white;
+    border-radius: 5em;
 }
 
-.card-img-overlay button{
-    width: 10em;
+.widget-band{
+    padding: 40px 0;
 }
